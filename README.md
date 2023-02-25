@@ -1,4 +1,5 @@
 ### Hi there 👋
+![image](https://user-images.githubusercontent.com/114166336/221369420-0a6baa1a-2756-4b94-92ee-994ba71cb8c2.png)
 
 <!--
 **AlessandroTrupia/AlessandroTrupia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
