@@ -1,6 +1,7 @@
 ### Hi there 👋 
 ### Welcome in my Github! 
 ### My name is Alessandro
+### Always ready to learn new things
 <h2></h2>
 
 Sono un Junior Java Backend Developer. Ho 28 anni e attualmente vivo a Palermo
