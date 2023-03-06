@@ -1,6 +1,5 @@
 ### Hi there 👋 
 ### Welcome in my Github! 
-### My name is Alessandro
 ### Always ready to learn new things
 <h2></h2>
 
