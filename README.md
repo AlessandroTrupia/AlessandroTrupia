@@ -1,9 +1,9 @@
 ### Hi there 👋 
 ### Welcome in my Github! 
-### Always ready to learn new things
+### Always ready to learn
 <h2></h2>
 
-Sono un Junior Java Backend Developer. Ho 28 anni e attualmente vivo a Palermo
+
 
 Dal 01/09/22 al 31/03/23 ho seguito un corso di formazione con  [<img src="https://d9hhrg4mnvzow.cloudfront.net/www.develhope.co/cbc5069c-develhope11.svg" alt="Develhope logo" title="Develhope" height="18" />](https://www.develhope.co/)
 &nbsp;
