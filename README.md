@@ -29,7 +29,4 @@ Dal 01/09/22 al 31/03/23 ho seguito un corso di formazione con  [<img src="https
 [<img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" height="30" />](https://www.linkedin.com/in/alessandro-trupia-9723a8259/)
 [<img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" height="30" />](mailto:trupia.alessandro94@gmail.com)
 
-<h2></h2>
 
-[![Alessandro's github stats](https://github-readme-stats.vercel.app/api?username=AlessandroTrupia&show_icons=true&theme=merko)](https://github.com/AlessandroTrupia)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlessandroTrupia&layout=compact&theme=merko)](https://github.com/AlessandroTrupia/github-readme-stats)
